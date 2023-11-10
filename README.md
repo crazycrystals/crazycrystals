@@ -3,9 +3,13 @@ I skid on the ~dailyweekly~monthly, shitpost, mess with cybersecurity, and then 
 
 # Contact
 Email: `crystals@crazycrystals.tech`
+
 Backup Email: `crazycrystals@protonmail.com`
+
 Discord: `crazycrystals`
+
 XMPP: `crazycrystals@macaw.me`
+
 Matrix: `crystals:stow.live`
 
 
