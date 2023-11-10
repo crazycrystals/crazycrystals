@@ -1,6 +1,14 @@
 # How 2 code?
 I skid on the ~dailyweekly~monthly, shitpost, mess with cybersecurity, and then miserably fail at it all.
 
+# Contact
+Email: `crystals@crazycrystals.tech`
+Backup Email: `crazycrystals@protonmail.com`
+Discord: `crazycrystals`
+XMPP: `crazycrystals@macaw.me`
+Matrix: `crystals:stow.live`
+
+
 # Neofetches
 ## Due to being an arch linux user, I am legally mandated to show all of my neofetches. Here is my collection!
 ### Frametop
