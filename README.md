@@ -10,7 +10,7 @@ Discord: `crazycrystals`
 
 XMPP: `crazycrystals@macaw.me`
 
-Matrix: `crystals:stow.live`
+Matrix: `crystals:matrix.org`
 
 
 # Neofetches
