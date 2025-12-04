@@ -5,8 +5,8 @@ Backup Email: `crazycrystals@protonmail.com`
 
 Discord: `crazycrystals`
 
-XMPP (inactive): `crazycrystals@macaw.me`
-
 Matrix: `crystal:omada.cafe`
+
+Signal: `crystal.01`
 
 I dont use github much. https://git.omada.cafe/crystals
